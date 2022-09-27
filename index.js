@@ -31,5 +31,5 @@ const roll = () => {
         rolls.push(Math.floor(Math.random() * dice) + 1 + getAddons())
     }
     //Sets the current list of rolls to be displayed
-    number.innerHTML = roll
+    number.innerHTML = rolls
 }
