@@ -2,7 +2,7 @@
 Used to document my friends' exploration and education into basic web development
 
 
-##Resources Used
+**Resources Used**
 
 https://www.w3schools.com/
 
